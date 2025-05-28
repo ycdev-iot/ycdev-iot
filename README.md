@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/26uf2YTg7C3zJ9rEs/giphy.gif" alt="Futuristic IoT Animation" width="300">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Futuristic Port IoT Animation" width="300">
 </p>
 
 # Hi 👋, We're YCDev IoT
 
-🚀 **Powering the Future of IoT with 3D Innovation from Salatiga, Indonesia** 🇮🇩
+🚢 **Revolutionizing Port Logistics with IoT & 3D Innovation from Salatiga, Indonesia** 🇮🇩
 
 <p align="center">
   <img src="https://img.shields.io/badge/Crafted%20in-Salatiga-00E0FF?style=for-the-badge&logo=iot" alt="Crafted in Salatiga">
@@ -12,21 +12,21 @@
 
 ---
 
-## 🌌 IoT with a Futuristic Edge
+## ⚓ Smart Ports with IoT & 3D Technology
 
-We’re YCDev IoT, a team from **Salatiga, Indonesia**, building **smart, connected ecosystems** that fuse sensors, microcontrollers, and satellites with **stunning 3D visualizations**. Our solutions transform real-world challenges into futuristic, data-driven experiences.
+We’re YCDev IoT, a team from **Salatiga, Indonesia**, building **smart port ecosystems**. Using IoT and **3D visualizations**, we enable real-time container tracking, ship monitoring, and automated logistics for the ports of the future.
 
 ---
 
 ## 🌐 About Us
 
-Based in **Salatiga, Central Java**, we’re a passionate group creating **open-source IoT solutions**. From **smart waste systems** to **precision agriculture**, we harness cutting-edge tech and 3D interfaces to make the world smarter and more sustainable.
+Based in **Salatiga, Central Java**, we’re a dedicated group creating **open-source IoT solutions**. Our mission is to transform port operations with intelligent systems, making logistics smarter, faster, and more efficient through cutting-edge tech.
 
 ---
 
 ## ⚙️ Our Tech Stack
 
-Our toolkit powers futuristic IoT with 3D integration:
+Our toolkit powers smart port systems with 3D integration:
 
 - **🧠 Platforms**: ESP32, STM32, Raspberry Pi, Arduino  
 - **📡 Protocols**: MQTT, HTTP, BLE, LoRa  
@@ -53,15 +53,15 @@ Our toolkit powers futuristic IoT with 3D integration:
 
 ## 🔧 Our Projects
 
-We’re pushing IoT boundaries with 3D-powered solutions:
+We’re pioneering IoT for port logistics with 3D-powered solutions:
 
-- ♻️ **Smart Waste Container System**: Real-time monitoring with 3D dashboards for sustainable cities.  
-- 🌱 **Precision Farming & Hydroponics**: 3D-visualized data for smarter agriculture.  
-- 🛰️ **IoT Satellite Data Integration**: Futuristic 3D interfaces for satellite connectivity.  
-- 📱 **Android & Web Dashboards**: Immersive 3D UI for seamless IoT control.
+- 🚢 **Container Tracking System**: Real-time monitoring of containers using IoT sensors and 3D dashboards.  
+- 📍 **Ship Location Monitoring**: Track vessels with LoRa and satellite integration, visualized in 3D.  
+- ⚙️ **Automated Port Logistics**: Streamline operations with smart IoT systems and futuristic interfaces.  
+- 📱 **Android & Web Dashboards**: Immersive 3D UI for port management and control.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50fb7Mi0prBC/giphy.gif" alt="3D IoT Dashboard" width="200">
+  <img src="https://media.giphy.com/media/3o7TKTDn976rzVgky4/giphy.gif" alt="3D Port Dashboard" width="200">
 </p>
 
 ---
@@ -79,5 +79,5 @@ We’re pushing IoT boundaries with 3D-powered solutions:
 ---
 
 <p align="center">
-  <b>Shaping a smarter world with IoT and 3D innovation! 🚀</b>
+  <b>Building smarter ports with IoT and 3D innovation! 🚀</b>
 </p>
