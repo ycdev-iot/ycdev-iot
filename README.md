@@ -1,69 +1,54 @@
-<h1 align="center">Hi 👋, we're YCDev IoT</h1>
-<h3 align="center">🚀 Innovating Embedded Intelligence from Salatiga, Indonesia 🇮🇩</h3>
+Hi 👋, We're YCDev IoT
+🚀 Innovating Embedded Intelligence from Salatiga, Indonesia 🇮🇩
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&color=16F7C8&width=480&lines=IoT+System+Developers;Smart+Tech+for+a+Connected+World;Edge+Computing+%7C+Cloud+Integration" alt="Typing SVG" />
-</p>
+  
 
----
 
-### 🛰️ IoT in Motion
 
-<p align="center">
-  <img src="https://media.giphy.com/media/2tMYOWEcCLoJxT303T/giphy.gif" width="300" alt="IoT satellite animation" />
-  <img src="https://media.giphy.com/media/FcxNifkzcL5rM6YxJ5/giphy.gif" width="300" alt="IoT container animation" />
-</p>
+🛰️ IoT in Motion
+From cloud to edge — we bring sensors, satellites, and systems into perfect sync. Our solutions power smarter, connected ecosystems with precision and scalability.
 
-> From cloud to edge — sensors, satellites, and systems in sync.
+🌐 About Us
+We're a passionate IoT developer group based in Salatiga, Central Java, Indonesia. Our mission is to create open, smart, and scalable embedded solutions that solve real-world challenges. From smart farming to waste management, we bridge problems with efficient, innovative technology.
 
----
+🛠️ Tech Stack
+Our toolkit is built for robust IoT development, blending hardware and software seamlessly:
 
-### 🌐 About Us
+🧠 Platforms: ESP32, STM32, Raspberry Pi, Arduino  
+📡 Protocols: MQTT, HTTP, BLE, LoRa  
+☁️ Cloud: Firebase, Node-RED, AWS IoT, Blynk  
+🧰 Tools: VS Code, PlatformIO, KiCad, LVGL
 
-We're a Salatiga-based IoT developer group focused on crafting open, smart, and scalable embedded solutions.  
-From smart farming to waste management, our goal is to bridge real-world problems with efficient tech.
 
----
+  
+  
+  
+  
 
-### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,cpp,python,raspberrypi,esp32,linux,git,vscode,mysql" alt="tech stack" />
-</p>
 
-- 🧠 Platforms: ESP32, STM32, Raspberry Pi, Arduino  
-- 📡 Protocols: MQTT, HTTP, BLE, LoRa  
-- ☁️ Cloud: Firebase, Node-RED, AWS IoT, Blynk  
-- 🧰 Tools: VS Code, PlatformIO, KiCad, LVGL
+📊 GitHub Stats
 
----
+  
+  
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ycdev-iot&show_icons=true&theme=radical" alt="ycdev-iot stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ycdev-iot&theme=radical" alt="ycdev-iot streak" />
-</p>
 
----
+🔧 Ongoing Projects
+We're pushing boundaries with these innovative projects:
 
-### 🔧 Ongoing Projects
+♻️ Smart Waste Container System: Intelligent waste monitoring for sustainable cities.  
+🌾 Precision Farming & Hydroponics: Data-driven agriculture for optimized yields.  
+🛰️ IoT Satellite Data Integration: Connecting terrestrial systems with satellite data.  
+📲 Android & Web Dashboard Interfaces: Seamless control and visualization for IoT devices.
 
-- ♻️ Smart Waste Container System  
-- 🌾 Precision Farming & Hydroponics  
-- 🛰️ IoT Satellite Data Integration  
-- 📲 Android & Web Dashboard Interfaces
 
----
+📍 Location & Contact
+📌 Based in: Salatiga, Central Java, Indonesia📬 Email: halo@ycdev.outlook.co.id🌐 Website: ycdev-iot.github.io
 
-### 📍 Location
+  
 
-📌 **Based in Salatiga, Central Java, Indonesia**  
-📬 Reach us: halo@ycdev.outlook.co.id
-🌐 [ycdev-iot.github.io](https://ycdev-iot.github.io) *(optional if available)*
 
----
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
+
+  Let's build the future of IoT together! 🚀
