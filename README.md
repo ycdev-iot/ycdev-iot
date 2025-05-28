@@ -6,9 +6,11 @@
   <img src="https://img.shields.io/badge/YCDev%20IoT-Smart%20Container%20Tracking-1E90FF?style=for-the-badge&logo=iot" alt="YCDev IoT Container Tracking">
 </p>
 
-# 🌟 Welcome to YCDev IoT
+<h1 align="center">🌟 Welcome to YCDev IoT</h1>
 
-🇮🇩 **Engineering the Future of IoT from Salatiga, Indonesia**
+<p align="center">
+  🚀 **Engineering the Future of IoT from Salatiga, Indonesia**
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Salatiga%20Innovation-00CED1?style=for-the-badge&logo=map-pin" alt="Salatiga Innovation">
@@ -18,30 +20,30 @@
 
 ## 📡 IoT-Powered Container Tracking
 
-We’re YCDev IoT, a tech-savvy team from **Salatiga, Indonesia**, specializing in **smart port solutions**. Our **Container Tracking System** leverages ESP32 and LoRa sensors to deliver **real-time monitoring** of container status and location, streamlining port logistics with futuristic precision.
+YCDev IoT adalah tim teknologi dari **Salatiga, Indonesia** yang mengembangkan solusi **smart port**. **Container Tracking System** kami mengintegrasikan ESP32 dan LoRa untuk **pemantauan real-time** kontainer di pelabuhan, memastikan efisiensi dan presisi yang lebih tinggi.
 
 ---
 
 ## 🌐 Who We Are
 
-Based in **Salatiga, Central Java**, we’re a passionate crew crafting **open-source IoT solutions**. Our goal is to revolutionize global port operations with intelligent systems, blending local ingenuity with cutting-edge technology.
+Kami adalah komunitas pengembang **IoT open-source**, berdedikasi untuk **merevolusi sistem logistik pelabuhan** dengan teknologi canggih yang dapat diakses secara global.
 
 ---
 
 ## ⚙️ Our Tech Stack
 
-We build with the best tools for IoT innovation:
+> 🔥 **Teknologi yang Kami Gunakan:**
 
-- **📡 Hardware**: ESP32, STM32, Raspberry Pi, Arduino  
-- **📶 Protocols**: MQTT, HTTP, BLE, LoRa  
-- **☁️ Cloud**: Firebase, Node-RED, AWS IoT, Blynk  
-- **🛠️ Tools**: VS Code, PlatformIO, KiCad, LVGL  
+| **Category** | **Technologies** |
+|-------------|----------------|
+| 📡 **Hardware** | ESP32, STM32, Raspberry Pi, Arduino |
+| 📶 **Protocols** | MQTT, HTTP, BLE, LoRa |
+| ☁️ **Cloud** | Firebase, Node-RED, AWS IoT, Blynk |
+| 🛠️ **Tools** | VS Code, PlatformIO, KiCad, LVGL |
 
 <p align="center">
   <img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&color=1E90FF" alt="ESP32">
   <img src="https://img.shields.io/badge/LoRa-03234B?style=flat-square&color=1E90FF" alt="LoRa">
-  <img src="https://img.shields.io/badge/AWS%20IoT-FF9900?style=flat-square&logo=amazonaws&color=00CED1" alt="AWS IoT">
-  <img src="https://img.shields.io/badge/Blynk-FF6B6B?style=flat-square&color=00CED1" alt="Blynk">
 </p>
 
 ---
@@ -50,23 +52,16 @@ We build with the best tools for IoT innovation:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ycdev-iot&show_icons=true&theme=transparent&bg_color=00000000&text_color=00CED1&icon_color=1E90FF" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycdev-iot&layout=compact&theme=transparent&bg_color=00000000&text_color=00CED1&icon_color=1E90FF" alt="Top Languages">
 </p>
 
 ---
 
 ## 📦 Our Projects
 
-We’re driving port logistics forward with IoT:
-
-- **📡 Container Tracking System**: Real-time monitoring using ESP32 and LoRa sensors, tracking container status and location with unparalleled accuracy.  
-- **🌐 Data Integration**: Seamless flow from sensors to cloud (AWS IoT, Firebase) for actionable insights.  
-- **🖥️ Smart Dashboards**: Clean, intuitive interfaces for port operators to manage containers in real-time.  
-- **🤖 Automation**: Efficient workflows with MQTT protocols, automating port operations.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26uf2YTg7C3zJ9rEs/giphy.gif" alt="IoT Sensor Animation" width="200">
-</p>
+✅ **Smart Container Tracking** → Pemantauan status kontainer berbasis sensor  
+✅ **Data Integration** → Pengiriman data otomatis ke cloud  
+✅ **Real-time Dashboard** → Visualisasi data sensor secara langsung  
+✅ **Automation Protocols** → Optimasi sistem dengan MQTT dan AI  
 
 ---
 
@@ -76,12 +71,8 @@ We’re driving port logistics forward with IoT:
 📧 **Email**: [halo@ycdev.outlook.co.id](mailto:halo@ycdev.outlook.co.id)  
 🌐 **Website**: [ycdev-iot.github.io](https://ycdev-iot.github.io)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Let%27s%20Collaborate-000000?style=flat-square&logo=github&color=1E90FF" alt="Collaborate">
-</p>
-
 ---
 
 <p align="center">
-  <b>Shaping Smarter Ports with IoT Innovation! 🚀</b>
+  <b>🚀 Shaping Smarter Ports with IoT Innovation!</b>
 </p>
