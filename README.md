@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50fb7Mi0prBC/giphy.gif" alt="3D IoT Dashboard Animation" width="300">
+  <img src="https://raw.githubusercontent.com/ycdev-iot/ycdev-iot/main/assets/container-tracking.gif" alt="3D IoT Dashboard Animation" width="300">
 </p>
 
 # Hi 👋, We're YCDev IoT
