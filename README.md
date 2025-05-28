@@ -59,7 +59,7 @@ From smart farming to waste management, our goal is to bridge real-world problem
 ### 📍 Location
 
 📌 **Based in Salatiga, Central Java, Indonesia**  
-📬 Reach us: ycdev.iot@gmail.com  
+📬 Reach us: halo@ycdev.outlook.co.id
 🌐 [ycdev-iot.github.io](https://ycdev-iot.github.io) *(optional if available)*
 
 ---
