@@ -103,7 +103,14 @@ Produk kami dirancang untuk aplikasi industri, smart port, dan otomasi modern.
 
 ## 🌐 Tentang Kami
 
-Kami adalah komunitas pengembang **IoT open-source** dari Salatiga, Indonesia. YCDEV IoT berdedikasi untuk merevolusi sistem logistik dan pelabuhan dengan teknologi IoT yang terbuka, modern, dan dapat diakses siapa saja.
+yCdev **Embedded System**    | Desain & pemrograman mikrokontroler untuk sensor/aktuator IoT            | ESP32, STM32, Arduino    |
+| **Wireless Networking**| Integrasi & optimasi jaringan nirkabel untuk IoT                         | LoRa, BLE, WiFi, Zigbee  |
+| **Cloud Integration**  | Koneksi dan sinkronisasi data IoT ke cloud secara real-time              | AWS IoT, Firebase, Node-RED |
+| **Dashboard & Visualisasi** | Pengembangan dashboard monitoring data sensor untuk insight instan  | Grafana, Blynk, Web Dashboard |
+| **IoT Automation**     | Automasi proses & pengambilan keputusan cerdas berbasis data             | MQTT, AI/ML, Edge Computing |
+| **PCB Design**         | Perancangan hardware & layout PCB custom untuk perangkat IoT             | KiCad, EasyEDA           |
+| **Security**           | Implementasi keamanan data & protokol IoT                                | TLS, Auth, Firewall      |
+
 
 ---
 
@@ -127,6 +134,6 @@ Kami adalah komunitas pengembang **IoT open-source** dari Salatiga, Indonesia. Y
 ---
 
 <p align="center">
-  <b>🚢 Membentuk Masa Depan Pelabuhan Pintar bersama YCDev IoT! 🚢</b><br>
+  <b>🚢 Untuk menjadikan setiap hal sebagai agen perubahan bersama YCDev IoT! 🚢</b><br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=1000&color=FFD700&center=true&vCenter=true&width=400&lines=Ready+for+the+Next+IoT+Revolution%3F" alt="IoT Revolution">
 </p>
