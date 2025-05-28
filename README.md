@@ -1,43 +1,43 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" alt="3D IoT Animation" width="300">
+  <img src="https://media.giphy.com/media/26uf2YTg7C3zJ9rEs/giphy.gif" alt="Futuristic IoT Animation" width="300">
 </p>
 
 # Hi 👋, We're YCDev IoT
 
-🚀 **Pioneering 3D-Enhanced IoT Solutions from Salatiga, Indonesia** 🇮🇩
+🚀 **Powering the Future of IoT with 3D Innovation from Salatiga, Indonesia** 🇮🇩
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Built%20in-Salatiga%2C%20Indonesia-00D4FF?style=for-the-badge&logo=iot" alt="Built in Salatiga">
+  <img src="https://img.shields.io/badge/Crafted%20in-Salatiga-00E0FF?style=for-the-badge&logo=iot" alt="Crafted in Salatiga">
 </p>
 
 ---
 
-## 🛰️ IoT in 3D Motion
+## 🌌 IoT with a Futuristic Edge
 
-We craft **smart, scalable IoT systems** that sync sensors, satellites, and devices with **3D visualizations** for a futuristic edge. From cloud to edge, our solutions power connected ecosystems with precision.
+We’re YCDev IoT, a team from **Salatiga, Indonesia**, building **smart, connected ecosystems** that fuse sensors, microcontrollers, and satellites with **stunning 3D visualizations**. Our solutions transform real-world challenges into futuristic, data-driven experiences.
 
 ---
 
 ## 🌐 About Us
 
-We're a dedicated IoT developer group from **Salatiga, Central Java, Indonesia**. Our mission is to build **open and innovative embedded solutions** for real-world challenges like **smart farming** and **waste management**, enhanced with 3D design for intuitive control and monitoring.
+Based in **Salatiga, Central Java**, we’re a passionate group creating **open-source IoT solutions**. From **smart waste systems** to **precision agriculture**, we harness cutting-edge tech and 3D interfaces to make the world smarter and more sustainable.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Our Tech Stack
 
-Our toolkit is designed for cutting-edge IoT with 3D integration:
+Our toolkit powers futuristic IoT with 3D integration:
 
 - **🧠 Platforms**: ESP32, STM32, Raspberry Pi, Arduino  
 - **📡 Protocols**: MQTT, HTTP, BLE, LoRa  
 - **☁️ Cloud**: Firebase, Node-RED, AWS IoT, Blynk  
-- **🧰 Tools**: VS Code, PlatformIO, KiCad, **LVGL (3D UI)**  
+- **🖥️ Tools**: VS Code, PlatformIO, KiCad, **LVGL (3D UI Design)**  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&color=00FFCC" alt="ESP32">
-  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&color=00FFCC" alt="STM32">
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&color=FF00CC" alt="Raspberry Pi">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&color=FF00CC" alt="Arduino">
+  <img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&color=00E0FF" alt="ESP32">
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&color=00E0FF" alt="STM32">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&color=FF00A0" alt="Raspberry Pi">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&color=FF00A0" alt="Arduino">
 </p>
 
 ---
@@ -45,39 +45,39 @@ Our toolkit is designed for cutting-edge IoT with 3D integration:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ycdev-iot&show_icons=true&theme=transparent&bg_color=00000000&text_color=00FFCC&icon_color=FF00CC" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycdev-iot&layout=compact&theme=transparent&bg_color=00000000&text_color=00FFCC&icon_color=FF00CC" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=ycdev-iot&show_icons=true&theme=transparent&bg_color=00000000&text_color=00E0FF&icon_color=FF00A0" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycdev-iot&layout=compact&theme=transparent&bg_color=00000000&text_color=00E0FF&icon_color=FF00A0" alt="Top Languages">
 </p>
 
 ---
 
-## 🔧 Ongoing Projects
+## 🔧 Our Projects
 
-Our projects combine IoT with stunning 3D interfaces:
+We’re pushing IoT boundaries with 3D-powered solutions:
 
-- ♻️ **Smart Waste Container System**: 3D-modeled monitoring for sustainable cities.  
-- 🌾 **Precision Farming & Hydroponics**: 3D dashboards for smarter agriculture.  
-- �satellite️ **IoT Satellite Data Integration**: Visualizing satellite data in 3D.  
-- 📲 **Android & Web Dashboard Interfaces**: Immersive 3D UI for IoT control.
+- ♻️ **Smart Waste Container System**: Real-time monitoring with 3D dashboards for sustainable cities.  
+- 🌱 **Precision Farming & Hydroponics**: 3D-visualized data for smarter agriculture.  
+- 🛰️ **IoT Satellite Data Integration**: Futuristic 3D interfaces for satellite connectivity.  
+- 📱 **Android & Web Dashboards**: Immersive 3D UI for seamless IoT control.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0Iyl55kTeh71nTWw/giphy.gif" alt="3D Dashboard Animation" width="200">
+  <img src="https://media.giphy.com/media/xT9IgG50fb7Mi0prBC/giphy.gif" alt="3D IoT Dashboard" width="200">
 </p>
 
 ---
 
-## 📍 Location & Contact
+## 📍 Connect with Us
 
 📌 **Based in**: Salatiga, Central Java, Indonesia  
 📬 **Email**: [halo@ycdev.outlook.co.id](mailto:halo@ycdev.outlook.co.id)  
 🌐 **Website**: [ycdev-iot.github.io](https://ycdev-iot.github.io)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Connect%20with%20Us-000000?style=flat-square&logo=github&color=00FFCC" alt="Connect">
+  <img src="https://img.shields.io/badge/Join%20the%20Future-000000?style=flat-square&logo=github&color=00E0FF" alt="Connect">
 </p>
 
 ---
 
 <p align="center">
-  <b>Join us to shape the future of IoT with 3D innovation! 🚀</b>
+  <b>Shaping a smarter world with IoT and 3D innovation! 🚀</b>
 </p>
