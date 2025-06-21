@@ -29,7 +29,7 @@ Produk kami dirancang untuk aplikasi industri, smart port, dan otomasi modern.
 
 ## 🎯 Visi Kami
 
-> **Membawa inovasi teknologi IoT dari Salatiga ke dunia, mempercepat digitalisasi & efisiensi logistik pelabuhan dan industri!**
+> **Membawa inovasi teknologi IoT dari jawa tengah ke dunia, mempercepat digitalisasi & efisiensi logistik pelabuhan dan industri!**
 
 ---
 
